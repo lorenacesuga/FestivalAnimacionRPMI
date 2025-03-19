@@ -1,0 +1,235 @@
+.pgina-inicial {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .pgina-inicial .overlap-wrapper {
+    overflow: hidden;
+    background-image: url(./img/p-gina-inicial.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 1440px;
+    height: 1024px;
+  }
+  
+  .pgina-inicial .overlap {
+    position: relative;
+    top: 30px;
+    left: -10px;
+    width: 1849px;
+    height: 994px;
+  }
+  
+  .pgina-inicial .overlap-group {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1849px;
+    height: 994px;
+  }
+  
+  .pgina-inicial .rectangle {
+    position: absolute;
+    width: 284px;
+    height: 346px;
+    top: 300px;
+    left: 597px;
+    background-color: #546257;
+    border-radius: 93px;
+    opacity: 0.28;
+  }
+  
+  .pgina-inicial .a-removebg-preview {
+    position: absolute;
+    width: 152px;
+    height: 263px;
+    top: 411px;
+    left: 667px;
+    object-fit: cover;
+  }
+  
+  .pgina-inicial .text-wrapper {
+    position: absolute;
+    width: 223px;
+    top: 434px;
+    left: 658px;
+    font-family: "Long Cang-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .pgina-inicial .arrow-wrap-iconsvg {
+    position: absolute;
+    width: 222px;
+    height: 213px;
+    top: 305px;
+    left: 906px;
+    transform: rotate(90deg);
+  }
+  
+  .pgina-inicial .group {
+    position: absolute;
+    width: 151px;
+    height: 155px;
+    top: 491px;
+    left: 772px;
+  }
+  
+  .pgina-inicial .FESTIVAL-DE-ANIMACI {
+    position: absolute;
+    width: 1819px;
+    top: 0;
+    left: 30px;
+    text-shadow: 9px 4px 4px #0f280b5e;
+    opacity: 0.77;
+    font-family: "Londrina Solid-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 180px;
+    letter-spacing: 1.80px;
+    line-height: 253.9px;
+  }
+  
+  .pgina-inicial .div {
+    position: absolute;
+    top: 697px;
+    left: 29px;
+    -webkit-text-stroke: 1px #ffffff;
+    font-family: "Londrina Outline-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 150px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .pgina-inicial .p {
+    position: absolute;
+    width: 1420px;
+    top: 857px;
+    left: 0;
+    font-family: "Lohit Bengali-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pgina-inicial .green-removebg {
+    position: absolute;
+    width: 199px;
+    height: 161px;
+    top: 833px;
+    left: 259px;
+    object-fit: cover;
+  }
+  
+  .pgina-inicial .govern-despanya {
+    position: absolute;
+    width: 135px;
+    height: 111px;
+    top: 883px;
+    left: 1285px;
+    object-fit: cover;
+  }
+  
+  .pgina-inicial .cabreiroa {
+    position: absolute;
+    width: 220px;
+    height: 153px;
+    top: 841px;
+    left: 658px;
+    object-fit: cover;
+  }
+  
+  .pgina-inicial .logo-da-xunta-de {
+    position: absolute;
+    width: 220px;
+    height: 63px;
+    top: 919px;
+    left: 30px;
+    object-fit: cover;
+  }
+  
+  .pgina-inicial .nippon-TV-logo {
+    position: absolute;
+    width: 140px;
+    height: 60px;
+    top: 933px;
+    left: 481px;
+    opacity: 0.61;
+  }
+  
+  .pgina-inicial .layer {
+    position: relative;
+    width: 139px;
+    height: 59px;
+  }
+  
+  .pgina-inicial .g {
+    position: absolute;
+    width: 38px;
+    height: 54px;
+    top: 3px;
+    left: 101px;
+  }
+  
+  .pgina-inicial .img {
+    position: absolute;
+    width: 43px;
+    height: 59px;
+    top: 0;
+    left: 0;
+  }
+  
+  .pgina-inicial .path {
+    position: absolute;
+    width: 40px;
+    height: 10px;
+    top: 3px;
+    left: 52px;
+  }
+  
+  .pgina-inicial .g-2 {
+    position: absolute;
+    width: 40px;
+    height: 36px;
+    top: 21px;
+    left: 52px;
+  }
+  
+  .pgina-inicial .fnac-logo-svg {
+    position: absolute;
+    width: 60px;
+    height: 62px;
+    top: 920px;
+    left: 923px;
+    object-fit: cover;
+  }
+  
+  .pgina-inicial .img-2 {
+    position: absolute;
+    width: 133px;
+    height: 44px;
+    top: 933px;
+    left: 1012px;
+    object-fit: cover;
+  }
+  
+  .pgina-inicial .logo-icaa {
+    position: absolute;
+    width: 123px;
+    height: 72px;
+    top: 922px;
+    left: 1153px;
+  }

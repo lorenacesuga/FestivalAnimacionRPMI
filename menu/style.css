@@ -1,0 +1,207 @@
+.pompiere-regular {
+    font-family: "Pompiere", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.londrina-outline-regular {
+    font-family: "Londrina Outline", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+.pgina-principal-men {
+  background-color: #a8b892;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.pgina-principal-men .overlap-group-wrapper {
+  background-color: #a8b892;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+}
+
+.pgina-principal-men .overlap-group {
+  position: relative;
+  width: 1392px;
+  height: 967px;
+  top: 85px;
+  left: 25px;
+}
+
+.pgina-principal-men .rectangle {
+  position: absolute;
+  width: 1391px;
+  height: 841px;
+  top: 77px;
+  left: 1px;
+  background-color: #eadece;
+  border-radius: 75px;
+}
+
+.pgina-principal-men .element {
+  position: absolute;
+  width: 494px;
+  height: 368px;
+  top: 279px;
+  left: 587px;
+}
+
+.pgina-principal-men .kiki-s-delivery {
+  position: absolute;
+  width: 354px;
+  height: 368px;
+  top: 279px;
+  left: 956px;
+}
+
+.pgina-principal-men .element-t {
+  position: absolute;
+  width: 449px;
+  height: 440px;
+  top: 259px;
+  left: 319px;
+  object-fit: cover;
+}
+
+.pgina-principal-men .ios-icon-removebg {
+  position: absolute;
+  width: 303px;
+  height: 925px;
+  top: 0;
+  left: 95px;
+}
+
+.pgina-principal-men .div {
+  position: absolute;
+  width: 228px;
+  height: 54px;
+  top: 678px;
+  left: 124px;
+  background-color: #74995f;
+  border-radius: 47px;
+  opacity: 0.4;
+}
+
+.pgina-principal-men .rectangle-2 {
+  position: absolute;
+  width: 228px;
+  height: 54px;
+  top: 678px;
+  left: 421px;
+  background-color: #74995f;
+  border-radius: 47px;
+  opacity: 0.4;
+}
+
+.pgina-principal-men .rectangle-3 {
+  position: absolute;
+  width: 223px;
+  height: 54px;
+  top: 678px;
+  left: 716px;
+  background-color: #74995f;
+  border-radius: 47px;
+  opacity: 0.4;
+}
+
+.pgina-principal-men .rectangle-4 {
+  position: absolute;
+  width: 223px;
+  height: 55px;
+  top: 677px;
+  left: 1037px;
+  background-color: #74995f;
+  border-radius: 47px;
+  opacity: 0.4;
+}
+
+.pgina-principal-men .text-wrapper {
+  position: absolute;
+  width: 1100px;
+  top: 682px;
+  left: 140px;
+  font-family: "Pompiere", Helvetica;
+  font-weight: 400;
+  color: #466634;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-principal-men .text-wrapper-2 {
+  position: absolute;
+  top: 680px;
+  left: 758px;
+  font-family: "Pompiere", Helvetica;
+  font-weight: 400;
+  color: #546257;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.pgina-principal-men .text-wrapper-3 {
+  position: absolute;
+  top: 680px;
+  left: 452px;
+  font-family: "Pompiere", Helvetica;
+  font-weight: 400;
+  color: #466634;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.pgina-principal-men .text-wrapper-4 {
+  position: absolute;
+  top: 680px;
+  left: 1094px;
+  font-family: "Pompiere", Helvetica;
+  font-weight: 400;
+  color: #466634;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.pgina-principal-men .green-removebg {
+  position: absolute;
+  width: 416px;
+  height: 321px;
+  top: 618px;
+  left: 508px;
+  object-fit: cover;
+}
+
+.pgina-principal-men .text-wrapper-5 {
+  position: absolute;
+  width: 548px;
+  top: 68px;
+  left: 0;
+  -webkit-text-stroke: 1px #466634;
+  font-family: "Londrina Outline", Helvetica;
+  font-weight: 400;
+  color: #466634;
+  font-size: 250px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.pgina-principal-men .a-removebg-preview {
+  position: absolute;
+  width: 114px;
+  height: 187px;
+  top: 752px;
+  left: 1256px;
+  object-fit: cover;
+}

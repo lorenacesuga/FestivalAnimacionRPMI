@@ -1,0 +1,258 @@
+.pompiere-regular {
+    font-family: "Pompiere", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.londrina-outline-regular {
+    font-family: "Londrina Outline", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.sobre-el-festival {
+    background-color: #a8b892;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .sobre-el-festival .overlap-group-wrapper {
+    background-color: #a8b892;
+    width: 1440px;
+    height: 1024px;
+  }
+  
+  .sobre-el-festival .overlap-group {
+    position: relative;
+    width: 1417px;
+    height: 1024px;
+  }
+  
+  .sobre-el-festival .rectangle {
+    position: absolute;
+    width: 1391px;
+    height: 841px;
+    top: 162px;
+    left: 26px;
+    background-color: #eadece;
+    border-radius: 75px;
+  }
+  
+  .sobre-el-festival .green-removebg {
+    position: absolute;
+    width: 416px;
+    height: 321px;
+    top: 703px;
+    left: 533px;
+    object-fit: cover;
+  }
+  
+  .sobre-el-festival .div {
+    position: absolute;
+    width: 1391px;
+    height: 100px;
+    top: 27px;
+    left: 26px;
+    background-color: #66704552;
+    border-radius: 141px;
+  }
+  
+  .sobre-el-festival .rectangle-2 {
+    position: absolute;
+    width: 1364px;
+    height: 65px;
+    top: 45px;
+    left: 39px;
+    background-color: #ffffffde;
+    border-radius: 51px;
+  }
+  
+  .sobre-el-festival .under-menu-iconsvg {
+    position: absolute;
+    width: 60px;
+    height: 63px;
+    top: 46px;
+    left: 62px;
+  }
+  
+  .sobre-el-festival .group {
+    position: relative;
+    width: 59px;
+    height: 50px;
+    top: 8px;
+  }
+  
+  .sobre-el-festival .clip-path-group {
+    position: absolute;
+    width: 59px;
+    height: 6px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sobre-el-festival .img {
+    top: 43px;
+    position: absolute;
+    width: 59px;
+    height: 6px;
+    left: 0;
+  }
+  
+  .sobre-el-festival .clip-path-group-2 {
+    top: 22px;
+    position: absolute;
+    width: 59px;
+    height: 6px;
+    left: 0;
+  }
+  
+  .sobre-el-festival .ios-icon-removebg {
+    position: absolute;
+    width: 400px;
+    height: 1200px;
+    top: -400px;
+    left: -232px;
+    object-fit: cover;
+  }
+  
+  .sobre-el-festival .rectangle-3 {
+    position: absolute;
+    width: 855px;
+    height: 686px;
+    top: 297px;
+    left: 512px;
+    background-color: #fef3e5;
+    border-radius: 107px;
+    opacity: 0.48;
+  }
+  
+  .sobre-el-festival .removebg {
+    position: absolute;
+    width: 208px;
+    height: 204px;
+    top: 695px;
+    left: 692px;
+    object-fit: cover;
+  }
+  
+  .sobre-el-festival .vector {
+    position: absolute;
+    width: 113px;
+    height: 103px;
+    top: 888px;
+    left: 39px;
+  }
+  
+  .sobre-el-festival .text-wrapper {
+    position: absolute;
+    top: 160px;
+    left: 61px;
+    -webkit-text-stroke: 1px #466634;
+    font-family: "Londrina Outline", Helvetica;
+    font-weight: 400;
+    color: #466634;
+    font-size: 128px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .sobre-el-festival .el-festival-de {
+    position: absolute;
+    width: 805px;
+    top: 323px;
+    left: 550px;
+    font-family: "Pompiere", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sobre-el-festival .element {
+    position: absolute;
+    width: 219px;
+    height: 216px;
+    top: 689px;
+    left: 922px;
+    object-fit: cover;
+  }
+  
+  .sobre-el-festival .element-t {
+    position: absolute;
+    width: 186px;
+    height: 116px;
+    top: 739px;
+    left: 1164px;
+    object-fit: cover;
+  }
+  
+  .sobre-el-festival .rectangle-4 {
+    position: absolute;
+    width: 116px;
+    height: 33px;
+    top: 864px;
+    left: 741px;
+    background-color: #bbc2a2;
+    border-radius: 47px;
+  }
+  
+  .sobre-el-festival .rectangle-5 {
+    position: absolute;
+    width: 116px;
+    height: 33px;
+    top: 864px;
+    left: 968px;
+    background-color: #bbc2a2;
+    border-radius: 47px;
+  }
+  
+  .sobre-el-festival .rectangle-6 {
+    position: absolute;
+    width: 116px;
+    height: 33px;
+    top: 864px;
+    left: 1199px;
+    background-color: #bbc2a2;
+    border-radius: 47px;
+  }
+  
+  .sobre-el-festival .text-wrapper-2 {
+    position: absolute;
+    top: 865px;
+    left: 752px;
+    font-family: "Pompiere", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sobre-el-festival .text-wrapper-3 {
+    position: absolute;
+    top: 865px;
+    left: 995px;
+    font-family: "Pompiere", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sobre-el-festival .text-wrapper-4 {
+    position: absolute;
+    top: 865px;
+    left: 1225px;
+    font-family: "Pompiere", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
